@@ -10,6 +10,7 @@ b. Nhấn nút tìm kiếm sản phẩm Asus
 4. Thực hiện verify hiển thị thông tin sản phẩm có trên giao diện tiki 
 
 Để tạo kịch bản test này, trước tiên ta xác định vị trí Element trên giao diện
+
 **Bước 1:** 
 Trước khi nhấn nút tìm kiếm:
 + Text box Search
