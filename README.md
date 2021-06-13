@@ -4,8 +4,11 @@ Thực hành tìm vị trí element trên giao diện Website tiki.vn qua cách 
 Ta có Kịch bản Test Script cho Auto trên Website tiki.vn như sau:
 1. Mở trang tiki.vn với trình duyệt chrome
 2. Tìm kiếm sản phẩm asus 
+
 a. Nhập chữ Asus vào ô textbox 
+
 b. Nhấn nút tìm kiếm sản phẩm Asus
+
 3. Chọn 1 sản phẩm Laptop dòng Asus bất kỳ
 4. Thực hiện verify hiển thị thông tin sản phẩm có trên giao diện tiki 
 
