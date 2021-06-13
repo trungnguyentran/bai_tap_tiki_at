@@ -1,6 +1,4 @@
 # bai_tap_tiki_at
-
-*** Bài tập:** 
 Thực hành tìm vị trí element trên giao diện Website tiki.vn qua cách dùng XPath
 
 Ta có Kịch bản Test Script cho Auto trên Website tiki.vn như sau:
